@@ -1,0 +1,62 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+
+local GUI = Mercury:Create{
+    Name = "👑MOONHUB👑",
+    Size = UDim2.fromOffset(600, 400),
+    Theme = Mercury.Themes.Dark,
+    Link = "https://github.com/deeeity/mercury-lib"
+}
+
+local 1Tab = GUI:Tab{
+	Name = "Blox Fruits 🐉🔥",
+	Icon = "rbxassetid://8569322835"
+}
+
+1Tab:Button{
+	Name = "سكربت RedzHup 🤯",
+	Description = nil,
+	Callback = function()
+
+ end
+}
+
+1Tab:Button{
+	Name = "سكربت الـمـوزة 🍌",
+	Description = nil,
+	Callback = function()
+
+ end
+}
+
+1Tab:Button{
+	Name = "سكربت دمــار 🔥",
+	Description = nil,
+	Callback = function()
+
+ end
+}
+
+1Tab:Button{
+	Name = "سكربت HOHO 🌀",
+	Description = nil,
+	Callback = function()
+
+ end
+}
+
+1Tab:Button{
+	Name = "سكربت القمر 🌑",
+	Description = nil,
+	Callback = function()
+
+ end
+}
+
+1Tab:Button{
+	Name = "سكربت فارم و تجميع صناديق 💸",
+	Description = nil,
+	Callback = function()
+
+ end
+}
