@@ -27,10 +27,10 @@ GUI:Prompt{
 	Title ="✅اضغط على المربعات الي تحت علشان تشغل القوائم✅",
 	Text = "🌊لا تنسا تدخل سيرفرنا الديسكورد🌊",
 	Buttons = {
-		تم🔥 = function()
+		YES = function()
 			return true
 		end,
-		❌لا❌ = function()
+		NO = function()
 			return false
 		end
 	}
