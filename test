@@ -8,55 +8,103 @@ local GUI = Mercury:Create{
     Link = "https://github.com/deeeity/mercury-lib"
 }
 
-local 1Tab = GUI:Tab{
+local Tab = GUI:Tab{
 	Name = "Blox Fruits 🐉🔥",
 	Icon = "rbxassetid://8569322835"
 }
 
-1Tab:Button{
+Tab1:Button{
 	Name = "سكربت RedzHup 🤯",
 	Description = nil,
 	Callback = function()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
  end
 }
 
-1Tab:Button{
+Tab1:Button{
 	Name = "سكربت الـمـوزة 🍌",
 	Description = nil,
 	Callback = function()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
  end
 }
 
-1Tab:Button{
+Tab1:Button{
 	Name = "سكربت دمــار 🔥",
 	Description = nil,
 	Callback = function()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/AnDepZaiHubNewUpdated.lua"))()
  end
 }
 
-1Tab:Button{
+Tab1:Button{
 	Name = "سكربت HOHO 🌀",
 	Description = nil,
 	Callback = function()
-
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-HoHo-Hub-+15-Games-2392"))()
  end
 }
 
-1Tab:Button{
+Tab1:Button{
 	Name = "سكربت القمر 🌑",
 	Description = nil,
 	Callback = function()
-
+loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
  end
 }
 
-1Tab:Button{
+Tab1:Button{
 	Name = "سكربت فارم و تجميع صناديق 💸",
 	Description = nil,
 	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Slimexiuem/MenuSlime/main/Farmchestv2"))()
+ end
+}
 
+Tab1:Button{
+	Name = "سكربت نـيـنـجا بلوكس 🗡",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/MinGamingV4.lua")()
+ end
+}
+
+Tab1:Button{
+	Name = "سكربت حـلـَو 👍🏻",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua'))()
+ end
+}
+
+Tab1:Button{
+	Name = "سكربت اسـطـوري 🐲",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/dasdokasdias/Fps/Loading.lua"))()
+ end
+}
+
+Tab1:Button{
+	Name = "سكربت مـيـراچ 🏝",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AAwful/VectorHub/main/Loader.lua"))()
+ end
+}
+
+Tab1:Button{
+	Name = "سكربت يـفـيدكم ⚓",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkScripter1/Main/refs/heads/main/Script"))()
+ end
+}
+
+Tab1:Button{
+	Name = "سكربت مـتـنـوع 🍃",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/100DaysWithoutHuman/100DaysBF/refs/heads/main/Bloxfruits"))()
  end
 }
