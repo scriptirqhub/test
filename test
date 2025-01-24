@@ -183,3 +183,30 @@ Tab2:Button{
 loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/New-C4-Remote.lua/main/BetaTest/Bladeball15m.html'))()
  end
 }
+
+local Tab3 = GUI:Tab{
+	Name = "MM2 🌹🔥",
+	Icon = "rbxassetid://4483362458"
+}
+
+Tab3:Button{
+	Name = "سكربت ام ام تو عربي🔫"",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2")("https://t.me/arceusxscripts")
+ end
+}
+Tab3:Button{
+	Name = "سكربت ام ام تو يفيدكم 🐇",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
+ end
+}
+Tab3:Button{
+	Name = "سكربت ام ام تو فارم 🍃",
+	Description = nil,
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertexpeak/vertex/refs/heads/main/loadstring"))()
+ end
+}
