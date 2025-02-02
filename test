@@ -1,3 +1,17 @@
+local args = {
+    [1] = "RolePlayBio",
+    [2] = "جاري التحميل........"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eTex1t"):FireServer(unpack(args))
+
+
+wait(2.5)
+
+
+
+
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
