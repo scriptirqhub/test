@@ -1,4 +1,16 @@
 local args = {
+    [1] = "PickingRPNameColor",
+    [2] = nil --[[Color3]]
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eColo1r"):FireServer(unpack(args))
+
+
+
+wait(0.1)
+
+
+local args = {
     [1] = "RolePlayBio",
     [2] = "جاري التحميل........"
 }
