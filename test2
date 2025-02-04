@@ -1206,3 +1206,326 @@ AddButton(Main, {
     
   end
 })
+
+local Main = MakeTab({Name = "💉-الــبــيــت-💉"})
+
+AddButton(Main, {
+  Name = "😾-اضـغـط عـلـى رقـم الـبـيـت لاخـذ تـحـكم-😾",
+  Callback = function()
+    
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 1-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 2-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 2
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 3-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 3
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 4-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 4
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 5-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 5
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 6-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 6
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 7-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 7
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 11-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 11
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 12-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 12
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 13-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 13
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 14-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 14
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 15-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 15
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 16-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 16
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 17-🔥",
+  Callback = function()
+
+     local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 17
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 18-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 18
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 19-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 19
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 20-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 20
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 21-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 21
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 22-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 22
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 23-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 23
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🔥-بـيـت رقـم 24-🔥",
+  Callback = function()
+
+local args = {
+    [1] = "GivePermissionLoopToServer",
+    [2] = game:GetService("Players").LocalPlayer,
+    [3] = 24
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+
+  end
+})
