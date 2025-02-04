@@ -1198,3 +1198,11 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireSe
   end
 })
 
+local Main = MakeTab({Name = "✨-سكنات اولاد-✨"})
+
+AddButton(Main, {
+  Name = "⚠️-قيد التطوير-⚠️",
+  Callback = function()
+    
+  end
+})
