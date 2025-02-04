@@ -418,7 +418,7 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):Fire
   end
 })
 
-local Main = MakeTab({Name = "🧍‍♂️-اجـــســـام-🧍‍♂️"})
+local Main = MakeTab({Name = "🧍‍♂️-اجـسـام بـنـات-🧍‍♂️"})
 
 AddButton(Main, {
   Name = "🧍‍♂️-Blush Fashion-🧍‍♂️",
@@ -609,6 +609,253 @@ local args = {
         [4] = 14861800627,
         [5] = 14861801454,
         [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+
+local Main = MakeTab({Name = "🧍‍♂️-اجـسـام اولاد-🧍‍♂️"})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-S15 skinned-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 17754346388,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-Thin-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 92757812011061,
+        [2] = 99519402284266,
+        [3] = 115905570886697,
+        [4] = 1,
+        [5] = 1,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم كـوبـي-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 86499666,
+        [2] = 27112039,
+        [3] = 27112052,
+        [4] = 27112068,
+        [5] = 27112056,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم رول-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 27112025,
+        [2] = 27112039,
+        [3] = 27112052,
+        [4] = 3230472745,
+        [5] = 3230470862,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم عـضـلات-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 18178775358,
+        [2] = 18178775182,
+        [3] = 18178775725,
+        [4] = 18178777453,
+        [5] = 18178775695,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+local Main = MakeTab({Name = "🧍‍♂️-اجـسـام قـصـيـره-🧍‍♂️"})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم الـقـزم-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 14579958702,
+        [2] = 14579959062,
+        [3] = 14579959191,
+        [4] = 14579959249,
+        [5] = 14579963667,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم قـزم مـتوسـط-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 77813057823038,
+        [2] = 135110043370135,
+        [3] = 116607813654019,
+        [4] = 138966229804486,
+        [5] = 128961183894053,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم قـزم گـصـيـر-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 120973199097564,
+        [2] = 118345433416023,
+        [3] = 112849465115864,
+        [4] = 78321005147549,
+        [5] = 106586789635639,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم قـزم-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 126267841602936,
+        [2] = 77530451194918,
+        [3] = 123471958406889,
+        [4] = 117042768644173,
+        [5] = 131948590344338,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم قـزم (بـنـت)-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 15282063616,
+        [2] = 15282063632,
+        [3] = 15282063615,
+        [4] = 14538400463,
+        [5] = 14538400387,
+        [6] = 1
+    },
+    [3] = "YinHub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🧍‍♂️-جـسـم الـهـامـسـتـر-🧍‍♂️",
+  Callback = function()
+
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 14898536974,
+        [2] = 14898536957,
+        [3] = 14898537277,
+        [4] = 14898537300,
+        [5] = 14898537292,
+        [6] = 14898536975
     },
     [3] = "YinHub"
 }
