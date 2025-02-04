@@ -865,3 +865,128 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):Fire
   end
 })
 
+local Main = MakeTab({Name = "😍-دمــج شــعـور-😍"})
+
+AddButton(Main, {
+  Name = "⬛-اضغط لدمج الاسود-⬛",
+  Callback = function()
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15294026484
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15848163279
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 16127830905
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15535076528
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🟫-اضغط لدمج البني-🟫",
+  Callback = function()
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 14627143022
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15294036713
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15847969469
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15971158257
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "⬜-اضغط لدمج الابيض-⬜",
+  Callback = function()
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 14627127264
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15908583844
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 14808889186
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(1.0)
+
+local args = {
+    [1] = "wearWalkStyle",
+    [2] = 15349539978
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+  end
+})
+
