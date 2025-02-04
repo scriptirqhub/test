@@ -1529,3 +1529,193 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t")
 
   end
 })
+
+local Main = MakeTab({Name = "💃-اغـانـي-💃"})
+
+AddButton(Main, {
+  Name = "👻-(لازم يـكـون عـنـدك قـيـم بـاس الاغـانـي)-👻",
+  Callback = function()
+    
+  end
+})
+
+AddButton(Main, {
+  Name = "⚠️-اضغط لتمكن من تشغيل الاغاني وذا تريد ازاله السكوتر العالق رست-⚠️",
+  Callback = function()
+
+local args = {
+    [1] = "SkateBoard"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🥵-يامتيكرس ساي-🥵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "7348150704"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🥵-ارسل كلمه کْـ*سِ وسوف تلحس کْـ*سِ ان شاء الله-🥵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "6536444735"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🥵-ياگواد ياقُحًـ*بًهّ يَآحًشُرهّ-🥵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "8701632845"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-موسيقى-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "17422074849"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-موسيقى (طربني وموت اذني)-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "4776398821"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-اغنيه اجنبيه-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "9042393752"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-اغنيه اجنبيه-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "9087418452"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-صوت مبايل اندرويد-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "7288899492"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-صفاره انضار-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "8379374771"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-هديها هديها شوي-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "7644757406"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-الحمدلله الحمدلله-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "7609175072"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🎵-استخفر الله استخفر الله يارب توب عليه-🎵",
+  Callback = function()
+
+local args = {
+    [1] = "PickingScooterMusicText",
+    [2] = "9108676586"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):FireServer(unpack(args))
+
+  end
+})
