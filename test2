@@ -1719,3 +1719,56 @@ game:GetService("ReplicatedStorage").RE:FindFirstChild("1NoMoto1rVehicle1s"):Fir
 
   end
 })
+
+local Main = MakeTab({Name = "😋-تـــــــنــــــوع-😋"})
+
+AddButton(Main, {
+  Name = "😂-تـنزع ملابسك-😂",
+  Callback = function()
+
+local args = {
+    [1] = "wear",
+    [2] = 2248242028
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+wait(0.1)
+
+local args = {
+    [1] = "wear",
+    [2] = 2547392639
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Updat1eAvata1r"):FireServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "🚀-اخذ كنبهٌ-🚀",
+  Callback = function()
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Couch"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+  end
+})
+
+AddButton(Main, {
+  Name = "👍-ازاله الاشياء من الانفنتوري-👍",
+  Callback = function()
+
+local args = {
+    [1] = "ClearAllTools"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s"):FireServer(unpack(args))
+
+  end
+})
+
