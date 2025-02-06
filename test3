@@ -1,0 +1,413 @@
+local Sound = Instance.new("Sound", game:GetService("SoundService"));
+Sound.SoundId = "rbxassetid://16190783444";
+Sound:Play();
+
+local args = {
+  [1] = "RolePlayName",
+  [2] = "سـكـربـت الـمـطـور سـيـفَ & مـحـمـدٌ💉"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eTex1t"):FireServer(unpack(args))
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "جارِ تحميل سكربت ";
+    Text = " جاري تشغيل جميع الحمايات"; 
+    Icon = "rbxassetid://126227182266463";
+    Duration = 5;
+    Button1 = "حسناً";
+})
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/S2EXE/Gui-/refs/heads/main/Gui%20(3).txt")))()
+MakeWindow({
+  Hub = {
+    Title = "LMO HUB | UPD 0.1",
+    Animation = "ارحـب/ي✨"
+  },
+  Key = {
+    KeySystem = false,
+    Title = "Key System",
+    Description = "",
+    KeyLink = "",
+    Keys = {"1234"},
+    Notifi = {
+      Notifications = true,
+      CorrectKey = "Running the Script...",
+      Incorrectkey = "The key is incorrect",
+      CopyKeyLink = "Copied to Clipboard"
+    }
+  }
+})
+MinimizeButton({
+  Image = "rbxassetid://126227182266463",
+  Size = {50, 50},
+  Color = Color3.fromRGB(10, 10, 10),
+  Corner = true,
+  Stroke = true,
+  StrokeColor = Color3.fromRGB(255, 255, 255)
+})
+
+
+local Main = MakeTab({Name = "مـعـلـومـات🔪"})
+
+local Image = AddImageLabel(Main, {
+  Name = "الـعـم!!؟",
+  Image = "rbxassetid://126227182266463",
+})
+
+local Paragraph = AddParagraph(Main, {"السكربت عبارة عن سكربتات كثيره جربها واستمتع ❤️🌚", "bom dia meus manos"})
+local Paragraph = AddParagraph(Main, {"السكربتات | المطور محمد", "bom dia meus manos"})
+
+AddButton(Main, {
+  Name = "انـسـخ حـسـاب الـمـطـور مـحـمـدٌ روبـلـوكـس👍",
+  Callback = function()
+    setclipboard('')
+  end
+})
+AddButton(Main, {
+  Name = "انـسـخ حـسـاب الـمـطـور مـحـمـدٌ تـيـك🌿",
+  Callback = function()
+    setclipboard('')
+  end
+})
+
+local Paragraph = AddParagraph(Main, {"المطور سيف | صانع الواجهة", "bom dia meus manos"})
+
+AddButton(Main, {
+  Name = "انـسـخ حـسـاب الـمـطـور سـيـف روبـلوكـس✨",
+  Callback = function()
+    setclipboard('uooooo943')
+  end
+})
+
+AddButton(Main, {
+  Name = "انـسـخ حـسـاب الـمـطـور سـيـف تـيـك تـوك🔥",
+  Callback = function()
+    setclipboard('uooooo943')
+  end
+})
+
+local Main = MakeTab({Name = "ماب البيوت🏠"})
+
+AddButton(Main, {
+  Name = "سـكـربـت الـمـطـور محمدٌ👍",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptirqhub/mohmdT5ME/refs/heads/main/forfans"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "script2",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script 3",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script4",
+  Callback = function()
+    print("Clicked")
+  end
+})
+
+AddButton(Main, {
+  Name = "Script5",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script6",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script7",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script8",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script9",
+  Callback = function()
+    print("Clicked")
+  end
+})
+
+AddButton(Main, {
+  Name = "Script10",
+  Callback = function()
+    print("Clicked")
+  end
+})
+
+local Main = MakeTab({Name = "Blox Fruit 🐉🔥"})
+
+
+AddButton(Main, {
+  Name = "سكربت RedzHup 🤯",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت الـمـوزة 🍌",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت جـمـيل 🔥",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/AnDepZaiHubNewUpdated.lua"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت HOHO 🌀",
+  Callback = function()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-HoHo-Hub-+15-Games-2392"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت القمر 🌑",
+  Callback = function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت فارم و تجميع صناديق 💸",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Slimexiuem/MenuSlime/main/Farmchestv2"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت نـيـنـجا بلوكس 🗡",
+  Callback = function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/MinGamingV4.lua")()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت حـلـَو 👍🏻",
+  Callback = function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua'))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت مـيـراچ 🏝",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AAwful/VectorHub/main/Loader.lua"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت مـفـيد ⚓",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkScripter1/Main/refs/heads/main/Script"))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت مـتـنـوع 🍃",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/100DaysWithoutHuman/100DaysBF/refs/heads/main/Bloxfruits"))()
+  end
+})
+
+local Main = MakeTab({Name = "Blade ball ⚔️🔥"})
+
+AddButton(Main, {
+  Name = "Script1",
+  Callback = function()
+    print("Clicked")
+  end
+})
+
+AddButton(Main, {
+  Name = "Script2",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "SCript3",
+  Callback = function()
+print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script4",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "SCript5",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script6",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "SCript7",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script8",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script9",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script10",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+local Main = MakeTab({Name = "MM2 🌹🔥"})
+
+AddButton(Main, {
+  Name = "سكربت ام ام تو عربي 🔫",
+  Callback = function()
+    print("Clicked")
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت ام ام تو بـسيط 🐇",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
+  end
+})
+
+AddButton(Main, {
+  Name = "سكربت ام ام تو فارم 🍃",
+  Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertexpeak/vertex/refs/heads/main/loadstring"))()
+  end
+})
+
+
+local Main = MakeTab({Name = "بلو لوك"})
+
+AddButton(Main, {
+  Name = "Script1",
+  Callback = function()
+    print("Clicked")
+  end
+})
+
+AddButton(Main, {
+  Name = "Script2",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "SCript3",
+  Callback = function()
+print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "Script4",
+  Callback = function()
+    print("Clicked")
+  end
+})
+AddButton(Main, {
+  Name = "SCript5",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script6",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "SCript7",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script8",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script9",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+AddButton(Main, {
+  Name = "Script10",
+  Callback = function()
+print("Clicked")
+
+  end
+})
+
+local Main = MakeTab({Name = "التحديثات"})
+local Paragraph = AddParagraph(Main, {"لاتوجد تحديثات الى الان", "bom dia meus manos"})
+
+local Main = MakeTab({Name = "الحمايه"})
+local Paragraph = AddParagraph(Main, {"لاتوجد حمايه الى الان", "bom dia meus manos"})
