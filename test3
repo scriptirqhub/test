@@ -1,3 +1,8 @@
+local Sound = Instance.new("Sound", game:GetService("SoundService"));
+Sound.SoundId = "rbxassetid://16190782786";
+Sound:Play();
+
+
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
