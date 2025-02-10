@@ -42,14 +42,60 @@ local Window = Rayfield:CreateWindow({
 
 local Tab = Window:CreateTab("مـاب الـراشـديـات", 112304664103162) -- Title, Image
 
+local Button = Tab:CreateButton({
+   Name = "مـاب الـراشـديـات💢",
+   Callback = function()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/slapfarmgui/main/main.lua'))()
+   end,
+})
+
 local Tab = Window:CreateTab("مـاب الـحـروب", 84536807419412) -- Title, Image
+
+local Button = Tab:CreateButton({
+   Name = "مـاب الـحـروب💀",
+   Callback = function()
+   loadstring(game:HttpGet("http://indovibes.fun/IDV/IDV.html"))()
+   end,
+})
 
 local Tab = Window:CreateTab("دورز", 76756891930280) -- Title, Image
 
-local Tab = Window:CreateTab("كـي جـي لـمـقـطع", 97290403085506) -- Title, Image
+local Button = Tab:CreateButton({
+   Name = "مـاب دورس🪐",
+   Callback = function()
+   loadstring(game:HttpGet('https://rawscripts.net/raw/DOORS-FFJ-Hub-11365'))()
+   end,
+})
+
+local Tab = Window:CreateTab("كـي جـي لـمـقـطـع", 97290403085506) -- Title, Image
+
+local Button = Tab:CreateButton({
+   Name = "كـي جـي لـمـقـطـع",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/xVicity/GLACIER/main/LATEST.lua"))()
+   end,
+})
 
 local Tab = Window:CreateTab("كـنـز الـون بـيـس", 84536807419412) -- Title, Image
 
+local Button = Tab:CreateButton({
+   Name = "كـنـز الـون بـيـس",
+   Callback = function()
+   --[[Key (You Can Leave It Empty)]]--
+getgenv().keysys = "Boat Blitz V1"
+--[[Custom Theme]]--
+getgenv().Themes_Enabled = false
+--[[Custom Theme Settings]]--
+getgenv().Buttons_Color = Color3.fromRGB(32, 32, 32)
+getgenv().Misc_Color = Color3.fromRGB(25, 25, 25)
+getgenv().Highlighting_Color = Color3.fromRGB(60, 60, 60)
+getgenv().Text_Color = Color3.fromRGB(240, 240, 240)
+getgenv().Sections_Color = Color3.fromRGB(150, 150, 150)
+getgenv().Divider_Color = Color3.fromRGB(60, 60, 60)
+--[[Loadstring]]--
+loadstring(game:HttpGet("https://gamingresources.github.io/BoatBlitz.lua"))()
+   end,
+})
 
 
 
